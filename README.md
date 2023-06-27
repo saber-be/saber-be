@@ -32,6 +32,7 @@ Welcome to my GitHub profile! Here, you'll find a collection of my projects. Fee
 - MongoDB
 - Redis
 - AWS
+- RabbitMQ
 
 ### Frameworks
 
